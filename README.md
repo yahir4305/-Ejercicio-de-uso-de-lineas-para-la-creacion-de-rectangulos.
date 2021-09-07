@@ -40,7 +40,7 @@ donde decimos que si (  i < freame.getHeight () / largo ; i ++ ),  en el interio
 
 # Resultados de la compilación 
 
-![image](https://user-images.githubusercontent.com/90071108/132401193-a881aefb-5497-418f-a01b-230ddf5c92ef.png)
+![image](https://user-images.githubusercontent.com/90071108/132401403-8fd04495-8cb5-40db-a7f3-70afeef7b661.png)
 
 
 
